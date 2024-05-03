@@ -7,3 +7,4 @@
 #assignment-7https://github.com/Rakshitha553/AIML-2024/blob/main/Assi-7.ipynb
 #assignment-9 https://github.com/Rakshitha553/AIML-2024/blob/main/2203a51604%20ass-9.ipynb
 #assignment-10 https://github.com/Rakshitha553/AIML-2024/blob/main/assignment_10%20AIML.ipynb
+#project code:https://github.com/Rakshitha553/AIML-2024/blob/main/GLOBAL_FOOD_INFLATION_AIML_PROJECT%20(1).ipynb
